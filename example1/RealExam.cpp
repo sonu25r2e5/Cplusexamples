@@ -16,6 +16,4 @@ cout << "Items: " << items << endl;
 cout << "Cost per item: " << currency << cost_per_item << endl;
 cout << "Total cost: " << currency << total_cost << endl;
 
-
-
 }
