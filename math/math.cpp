@@ -10,5 +10,6 @@ int main() {
  cout << pow(num, 2) << endl;
 d=  max(num, mum);
  cout << d << endl;
+ cout << round(2.6) << endl;
     return 0;
 }
