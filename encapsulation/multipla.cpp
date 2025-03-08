@@ -15,7 +15,7 @@ class myMother{
     public:
     void mother_char(){
         cout << "mother character" << endl;
-    };
+    }
 };
 
 
