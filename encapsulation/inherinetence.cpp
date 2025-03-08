@@ -28,7 +28,5 @@ int main() {
     Car myCar;
     cout << myCar.brand + " " + myCar.model << endl; 
     myCar.honk1(); 
-    
-   
     return 0;
 }
